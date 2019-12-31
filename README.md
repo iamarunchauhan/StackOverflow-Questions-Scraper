@@ -29,3 +29,7 @@ Step 5. **Whoop !!** we have scraped the data from *stackoverflow website* and n
 
 Step 6. You are now having resultant data which you verify on [JSONLint](https://jsonlint.com/) to check validity of *data* & can use it in your projects to build applications.  
 
+
+## JSON Output -
+
+![Output](https://user-images.githubusercontent.com/37152406/71631150-1ecb1e80-2c2d-11ea-908d-110210bf4bb0.JPG)
