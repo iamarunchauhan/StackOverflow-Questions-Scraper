@@ -1,0 +1,253 @@
+{
+	"questions": [{
+		"question": "using byte/sbyte and it cant convert",
+		"views": "2 views",
+		"vote_count": "0",
+		"tags": ["c#"]
+	}, {
+		"question": "I am looking for a script/widget that will allow multiple files zip files by selecting some or all of the checkboxes next to the listed items",
+		"views": "2 views",
+		"vote_count": "0",
+		"tags": ["scripting", "widget", "batch-processing"]
+	}, {
+		"question": "Can I conditionally add a hosted service based on options?",
+		"views": "2 views",
+		"vote_count": "0",
+		"tags": ["asp.net-core", "dependency-injection"]
+	}, {
+		"question": "Connecting to Server",
+		"views": "3 views",
+		"vote_count": "0",
+		"tags": ["python", "python-3.x", "server"]
+	}, {
+		"question": "how to create html forum that redirect to other page for downloading file?",
+		"views": "3 views",
+		"vote_count": "0",
+		"tags": ["html", "forum"]
+	}, {
+		"question": "View not reflecting state changes from service",
+		"views": "5 views",
+		"vote_count": "0",
+		"tags": ["android", "kotlin", "mvvm"]
+	}, {
+		"question": "Netbeans not allowing to install any plugin",
+		"views": "4 views",
+		"vote_count": "0",
+		"tags": ["java", "gradle", "netbeans", "plugins"]
+	}, {
+		"question": "Spark: Is preservesPartitioning in mapPartitions ignored unless we are using a key-value pair RDD",
+		"views": "2 views",
+		"vote_count": "0",
+		"tags": ["apache-spark", "rdd"]
+	}, {
+		"question": "Arrange php echo images in a grid format",
+		"views": "3 views",
+		"vote_count": "0",
+		"tags": ["html", "css", "image"]
+	}, {
+		"question": "Check If there is any user related with the governorate before delete?",
+		"views": "2 views",
+		"vote_count": "0",
+		"tags": ["laravel"]
+	}, {
+		"question": "cmake: how to add a compiler flag according to current compiler version",
+		"views": "3 views",
+		"vote_count": "0",
+		"tags": ["gcc", "cmake"]
+	}, {
+		"question": "Spring Batch - How to create metadata tables on Different schema?",
+		"views": "2 views",
+		"vote_count": "0",
+		"tags": ["spring", "spring-boot", "spring-batch", "metadata"]
+	}, {
+		"question": "How i can scanning BLE in fragment on Android Studio",
+		"views": "7 views",
+		"vote_count": "0",
+		"tags": ["android", "arduino", "bluetooth-lowenergy", "android-bluetooth"]
+	}, {
+		"question": "How to Solve WordPress Login in Local Host?",
+		"views": "4 views",
+		"vote_count": "0",
+		"tags": ["wordpress", "xampp", "localhost"]
+	}, {
+		"question": "Create shareable annotations for HTML, XML, SVG files",
+		"views": "7 views",
+		"vote_count": "-1",
+		"tags": ["javascript", "html", "xml", "svg", "annotations"]
+	}, {
+		"question": "Can i deploy a react and mysql on a shared hosting?",
+		"views": "2 views",
+		"vote_count": "0",
+		"tags": ["deployment"]
+	}, {
+		"question": "Android - canvas paint is different on different resolutions",
+		"views": "3 views",
+		"vote_count": "0",
+		"tags": ["android", "canvas"]
+	}, {
+		"question": "Need an r function to invert the longitude coordinates for a geom_sf ggplot chart",
+		"views": "4 views",
+		"vote_count": "0",
+		"tags": ["r", "ggplot2"]
+	}, {
+		"question": "Isn't there to bypass Instagram limitation with this code?",
+		"views": "6 views",
+		"vote_count": "1",
+		"tags": ["python", "python-3.x", "selenium", "proxy", "tor"]
+	}, {
+		"question": "Arduino + digital potentiometer",
+		"views": "2 views",
+		"vote_count": "0",
+		"tags": ["controls", "arduino-uno", "divider", "volt", "ohm"]
+	}, {
+		"question": "FileInputStream is not reading last 9 characters in the xml file",
+		"views": "5 views",
+		"vote_count": "-1",
+		"tags": ["java", "xml"]
+	}, {
+		"question": "How would I go about mass converting CSS variables back to their original values?",
+		"views": "8 views",
+		"vote_count": "0",
+		"tags": ["css", "variables", "implicit-conversion", "downgrade", "mass"]
+	}, {
+		"question": "Sharing keystore between multiple apps",
+		"views": "3 views",
+		"vote_count": "0",
+		"tags": ["android", "keystore"]
+	}, {
+		"question": "Using an Scanner input as a Parameter",
+		"views": "7 views",
+		"vote_count": "-1",
+		"tags": ["java", "object"]
+	}, {
+		"question": "V8 isolates mapped memory leaks",
+		"views": "2 views",
+		"vote_count": "0",
+		"tags": ["v8", "embedded-v8"]
+	}, {
+		"question": "Swift - Chunk array to different sizes",
+		"views": "8 views",
+		"vote_count": "0",
+		"tags": ["arrays", "swift"]
+	}, {
+		"question": "Allowing people to make plug-ins for a program in C",
+		"views": "12 views",
+		"vote_count": "0",
+		"tags": ["c"]
+	}, {
+		"question": "How can I save a filtered pyshark FileCapture to a new pcap file?",
+		"views": "4 views",
+		"vote_count": "0",
+		"tags": ["python", "wireshark", "scapy", "pyshark"]
+	}, {
+		"question": "NestJS Dynamic WebSocket Namespaces",
+		"views": "5 views",
+		"vote_count": "0",
+		"tags": ["websocket", "nestjs", "ws", "nestjs-gateways"]
+	}, {
+		"question": "Different output while running and debugging",
+		"views": "17 views",
+		"vote_count": "0",
+		"tags": ["python", "python-3.x", "oop"]
+	}, {
+		"question": "How build a 3D Widgets in Flutter.?",
+		"views": "6 views",
+		"vote_count": "-1",
+		"tags": ["flutter", "dart", "3d", "widget"]
+	}, {
+		"question": "Socket on android pie or api level 28 is not working. I'm not able to connect with Socket using host and post in android java",
+		"views": "11 views",
+		"vote_count": "0",
+		"tags": ["java", "android", "sockets", "kotlin", "socket.io"]
+	}, {
+		"question": "Kotlin - use string variable as object key",
+		"views": "4 views",
+		"vote_count": "0",
+		"tags": ["object", "kotlin", "key", "getter"]
+	}, {
+		"question": "How prevent multiple login with same login credentials in jwt authentication WordPress?",
+		"views": "5 views",
+		"vote_count": "0",
+		"tags": ["php", "wordpress", "jwt", "jwt-auth"]
+	}, {
+		"question": "RSA.FromXmlString 'Operation is not supported on this platform.'",
+		"views": "9 views",
+		"vote_count": "0",
+		"tags": ["c#", "asp.net"]
+	}, {
+		"question": "Change the format of history in Easy Digital Downloads",
+		"views": "4 views",
+		"vote_count": "0",
+		"tags": ["php", "wordpress", "easy-digital-downloads"]
+	}, {
+		"question": "Array vs Dictionary response structures with JSONDecoder",
+		"views": "9 views",
+		"vote_count": "0",
+		"tags": ["swift", "generics", "codable", "jsondecoder"]
+	}, {
+		"question": "Masstransit failed host connection",
+		"views": "5 views",
+		"vote_count": "0",
+		"tags": ["masstransit"]
+	}, {
+		"question": "Godot How to get Colliders Parent Name (C# godot mono v3.1.2 stable)",
+		"views": "9 views",
+		"vote_count": "0",
+		"tags": ["c#", "mono", "collision", "godot", "collider"]
+	}, {
+		"question": "Checking Equality of two Lists throws IndexOutOfBoundsException",
+		"views": "18 views",
+		"vote_count": "-2",
+		"tags": ["java", "android"]
+	}, {
+		"question": "How can I specify HTML5 output from RMarkdown to get semantic elements like <section>?",
+		"views": "5 views",
+		"vote_count": "0",
+		"tags": ["r-markdown", "knitr"]
+	}, {
+		"question": "V8 : Isolate is incompatible with the embedded blob",
+		"views": "3 views",
+		"vote_count": "0",
+		"tags": ["v8", "embedded-v8"]
+	}, {
+		"question": "Display Django model data in HTML table by grouping data by users",
+		"views": "2 views",
+		"vote_count": "0",
+		"tags": ["django", "django-models", "html-table"]
+	}, {
+		"question": "WPF - MVVM and switching VIEWs into one mainview",
+		"views": "6 views",
+		"vote_count": "0",
+		"tags": ["c#", "mvvm", "view", "datacontext", "mahapps.metro"]
+	}, {
+		"question": "Accessing array elements from another class",
+		"views": "12 views",
+		"vote_count": "0",
+		"tags": ["java", "arrays"]
+	}, {
+		"question": "License information could not be obtained from Elasticsearch for the [data] cluster",
+		"views": "2 views",
+		"vote_count": "0",
+		"tags": ["elasticsearch", "kibana-7"]
+	}, {
+		"question": "Button not working after Load Data in Table with jQuery Ajax",
+		"views": "12 views",
+		"vote_count": "0",
+		"tags": ["javascript", "jquery", "json", "ajax", "delimiter"]
+	}, {
+		"question": "How do i sort associate array using sub array key value in PHP 7",
+		"views": "12 views",
+		"vote_count": "0",
+		"tags": ["php", "arrays", "sorting"]
+	}, {
+		"question": "Importing class instantiates object [closed]",
+		"views": "15 views",
+		"vote_count": "0",
+		"tags": ["python", "python-3.x", "python-import", "argparse"]
+	}, {
+		"question": "what is the criteria and script used in statistics like page?",
+		"views": "4 views",
+		"vote_count": "0",
+		"tags": ["database"]
+	}]
+}
